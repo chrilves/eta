@@ -63,3 +63,5 @@ packages:
 - etlas/dhall-to-etlas
 - etlas/hackage-security/hackage-security
 - shake
+nix:
+  pure: false
